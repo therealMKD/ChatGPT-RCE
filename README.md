@@ -14,3 +14,5 @@ All code in this project is written COMPLETELY by ChatGPT, and no editing is mad
 Currently, the python files require python installed to run, I will convert them to .exe when the project is over. 
 
 THIS PROJECT IS CURRENTLY IN DEVEOPMENT, ALL FEATURES ARE SUBJECT TO CHANGE
+
+Status: Bugtesting the CMD file
